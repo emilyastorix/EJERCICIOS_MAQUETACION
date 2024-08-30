@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e0f7fa;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.etiqueta {
+    background-color: #d05b8c;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    width: 260px;
+    padding: 20px;
+    text-align: center;
+}
+
+.imagenpuerco img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+}
+
+.contenidoo h2 {
+    color: #333;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.contenidoo p {
+    color: white;
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 0 0 20px;
+}
+
+.abajoc {
+    margin-top: 10px;
+}
+
+.inicioo {
+    background-color: #ff5c8a;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.inicioo:hover {
+    background-color: #e04d74;
+}
